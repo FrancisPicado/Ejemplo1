@@ -17,5 +17,9 @@ public class Ejemplo1 {
         JOptionPane.showMessageDialog(null, "hola");
         JOptionPane.showMessageDialog(null, "Buenas");
         JOptionPane.showMessageDialog(null, "Como estas");
+        JOptionPane.showMessageDialog(null, "buenas noches brach FRAN");
+
+      
+
     }
 }
