@@ -4,6 +4,8 @@
 
 package fidelitas.ejemplo1;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author franc
@@ -12,5 +14,6 @@ public class Ejemplo1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        JOptionPane.showMessageDialog(null, "hola");
     }
 }
