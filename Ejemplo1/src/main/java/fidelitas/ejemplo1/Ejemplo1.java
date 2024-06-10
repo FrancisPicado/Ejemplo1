@@ -16,6 +16,6 @@ public class Ejemplo1 {
         System.out.println("Hello World!");
         JOptionPane.showMessageDialog(null, "hola");
         JOptionPane.showMessageDialog(null, "Buenas");
-        JOptionPane.showMessageDialog(null, "buenas noches");
+        JOptionPane.showMessageDialog(null, "buenas noches brach FRAN");
     }
 }
